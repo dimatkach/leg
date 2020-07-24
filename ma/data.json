@@ -1,0 +1,3334 @@
+[
+  {
+    "id": "ocd-person/f3dd7fd8-5d7f-4fa3-b2fe-910e375f2edd",
+    "name": "David Allen Robertson",
+    "image": "https://malegislature.gov/Legislators/Profile/170/D_R1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Nineteenth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:19th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/david-allen-robertson-7QAMNXtj4IvZUNOjBxLkc9/",
+    "email": "david.robertson@mahouse.gov",
+    "surname": "Robertson",
+    "salutation": "Dear Representative Robertson"
+  },
+  {
+    "id": "ocd-person/05f9b238-283f-4529-8989-ff7d1bda60a8",
+    "name": "Lindsay N. Sabadosa",
+    "image": "https://malegislature.gov/Legislators/Profile/170/L_S1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "First Hampshire",
+      "division_id": "ocd-division/country:us/state:ma/sldl:1st_hampshire",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/lindsay-n-sabadosa-BH4X0YcrlRGHrcgiTRney/",
+    "email": "lindsay.sabadosa@mahouse.gov",
+    "surname": "Sabadosa",
+    "salutation": "Dear Representative Sabadosa"
+  },
+  {
+    "id": "ocd-person/c8fe117c-4c65-45c7-bdf1-fec80bd0f344",
+    "name": "Nika C. Elugardo",
+    "image": "https://malegislature.gov/Legislators/Profile/170/N_E1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fifteenth Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:15th_suffolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/nika-c-elugardo-67GZe3PaRGSrmafukxv2pw/",
+    "email": "nika.elugardo@mahouse.gov",
+    "surname": "Elugardo",
+    "salutation": "Dear Representative Elugardo"
+  },
+  {
+    "id": "ocd-person/1cb5ea99-59ac-4618-af05-f2c2244c7ff7",
+    "name": "Tami L. Gouveia",
+    "image": "https://malegislature.gov/Legislators/Profile/170/TLG1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fourteenth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:14th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/tami-l-gouveia-sAv71uqvXz6yRffVGTroF/",
+    "email": "tami.gouveia@mahouse.gov",
+    "surname": "Gouveia",
+    "salutation": "Dear Representative Gouveia"
+  },
+  {
+    "id": "ocd-person/2b711986-660c-4eca-9072-31b2fda4542c",
+    "name": "Jon Santiago",
+    "image": "https://malegislature.gov/Legislators/Profile/170/J_S2.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Ninth Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:9th_suffolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/jon-santiago-1JyM7QW37bvzoQQJmrDJ52/",
+    "email": "jon.santiago@mahouse.gov",
+    "surname": "Santiago",
+    "salutation": "Dear Representative Santiago"
+  },
+  {
+    "id": "ocd-person/65617e1a-1834-4ec8-9f19-4ac801ce9764",
+    "name": "Mindy Domb",
+    "image": "https://malegislature.gov/Legislators/Profile/170/M_D2.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Third Hampshire",
+      "division_id": "ocd-division/country:us/state:ma/sldl:3rd_hampshire",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/mindy-domb-35ImJTuew1ylVMK88Yffam/",
+    "email": "mindy.domb@mahouse.gov",
+    "surname": "Domb",
+    "salutation": "Dear Representative Domb"
+  },
+  {
+    "id": "ocd-person/9750bdb4-4dce-4003-85ec-672185a3a5a4",
+    "name": "Christopher Hendricks",
+    "image": "https://malegislature.gov/Legislators/Profile/170/C_H1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eleventh Bristol",
+      "division_id": "ocd-division/country:us/state:ma/sldl:11th_bristol",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/christopher-hendricks-4bWjt3guL4N7FGg9wysdGO/",
+    "email": "Chris.Hendricks@mahouse.gov",
+    "surname": "Hendricks",
+    "salutation": "Dear Representative Hendricks"
+  },
+  {
+    "id": "ocd-person/ca659c30-e49e-420b-8213-797cfeb3c378",
+    "name": "David Henry Argosky LeBoeuf",
+    "image": "https://malegislature.gov/Legislators/Profile/170/DAL1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Seventeenth Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldl:17th_worcester",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/david-henry-argosky-leboeuf-69usvo8Rj5Nss0sJeDb6fA/",
+    "email": "david.leboeuf@mahouse.gov",
+    "surname": "LeBoeuf",
+    "salutation": "Dear Representative LeBoeuf"
+  },
+  {
+    "id": "ocd-person/5fde161f-7456-4006-bffd-eaf6fedc5aa3",
+    "name": "David Biele",
+    "image": "https://malegislature.gov/Legislators/Profile/170/D_B1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fourth Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:4th_suffolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/david-biele-2utlQ2pUbJ3JdbQdiuPN5P/",
+    "email": "David.Biele@mahouse.gov",
+    "surname": "Biele",
+    "salutation": "Dear Representative Biele"
+  },
+  {
+    "id": "ocd-person/62ebe10b-ef71-4579-a55a-3c2045916d70",
+    "name": "Daniel R. Carey",
+    "image": "https://malegislature.gov/Legislators/Profile/170/DRC1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Second Hampshire",
+      "division_id": "ocd-division/country:us/state:ma/sldl:2nd_hampshire",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/daniel-r-carey-30f2nK3bCz8WM6QRQ6FqkK/",
+    "email": "daniel.carey@mahouse.gov",
+    "surname": "Carey",
+    "salutation": "Dear Representative Carey"
+  },
+  {
+    "id": "ocd-person/4cec2aa4-c17b-4749-b0e9-58a25695bf2f",
+    "name": "Michael J. Soter",
+    "image": "https://malegislature.gov/Legislators/Profile/170/MJS1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eighth Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldl:8th_worcester",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/michael-j-soter-2L9LPFR3ZPxiyd1iVECo9P/",
+    "email": "michael.soter@mahouse.gov",
+    "surname": "Soter",
+    "salutation": "Dear Representative Soter"
+  },
+  {
+    "id": "ocd-person/c6564e2a-92bf-4a35-b501-a654b9260511",
+    "name": "Maria Duaime Robinson",
+    "image": "https://malegislature.gov/Legislators/Profile/170/MDR1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Sixth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:6th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/maria-duaime-robinson-62FvBfzrdUAv143bGKKBV3/",
+    "email": "maria.robinson@mahouse.gov",
+    "surname": "Robinson",
+    "salutation": "Dear Representative Robinson"
+  },
+  {
+    "id": "ocd-person/173c7e47-c770-4c5a-9794-4db19f9f5dce",
+    "name": "Natalie M. Blais",
+    "image": "https://malegislature.gov/Legislators/Profile/170/NMB1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "First Franklin",
+      "division_id": "ocd-division/country:us/state:ma/sldl:1st_franklin",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/natalie-m-blais-hqT4wY1Z9d5QHAR4FP29m/",
+    "email": "Natalie.Blais@mahouse.gov",
+    "surname": "Blais",
+    "salutation": "Dear Representative Blais"
+  },
+  {
+    "id": "ocd-person/fb97b139-c0dd-41b5-ae52-159528f47b11",
+    "name": "Rebecca L. Rausch",
+    "image": "https://malegislature.gov/Legislators/Profile/170/RLR0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Norfolk, Bristol and Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldu:norfolk_bristol_and_middlesex",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/rebecca-l-rausch-7ekOeXPYLP0nzyw4cNGdkX/",
+    "email": "Becca.Rausch@masenate.gov",
+    "surname": "Rausch",
+    "salutation": "Dear Senator Rausch"
+  },
+  {
+    "id": "ocd-person/0a288f3d-397f-4e7b-8bfd-b5032ae1421f",
+    "name": "Patrick Joseph Kearney",
+    "image": "https://malegislature.gov/Legislators/Profile/170/PJK1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fourth Plymouth",
+      "division_id": "ocd-division/country:us/state:ma/sldl:4th_plymouth",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/patrick-joseph-kearney-JASSUjhazo9ALs5A3d0H9/",
+    "email": "patrick.kearney@mahouse.gov",
+    "surname": "Kearney",
+    "salutation": "Dear Representative Kearney"
+  },
+  {
+    "id": "ocd-person/c017af03-ae33-4c72-aee4-6ce58722b3b8",
+    "name": "Peter Capano",
+    "image": "https://malegislature.gov/Legislators/Profile/170/PLC1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eleventh Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:11th_essex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/peter-capano-5qTLiJvUURvui9XZoNxWVU/",
+    "email": "peter.capano@mahouse.gov",
+    "surname": "Capano",
+    "salutation": "Dear Representative Capano"
+  },
+  {
+    "id": "ocd-person/6d186dd3-a4a0-4d65-aaf1-2f0a63cd42ec",
+    "name": "Norman J. Orrall",
+    "image": "https://malegislature.gov/Legislators/Profile/170/NJO1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Twelfth Bristol",
+      "division_id": "ocd-division/country:us/state:ma/sldl:12th_bristol",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/norman-j-orrall-3JrKJnNpT6xfnQp76vIWvU/",
+    "email": "norman.orrall@mahouse.gov",
+    "surname": "Orrall",
+    "salutation": "Dear Representative Orrall"
+  },
+  {
+    "id": "ocd-person/7a234dbf-2f9f-466f-8db1-44ac0f3975a8",
+    "name": "Tommy Vitolo",
+    "image": "https://malegislature.gov/Legislators/Profile/170/T_V1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fifteenth Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:15th_norfolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/tommy-vitolo-3iTCG42lvYOr1iuwhfZlge/",
+    "email": "tommy.vitolo@mahouse.gov",
+    "surname": "Vitolo",
+    "salutation": "Dear Representative Vitolo"
+  },
+  {
+    "id": "ocd-person/6c91e5b9-b66a-4cb4-9fe3-ff4f5f1724e3",
+    "name": "Christina A. Minicucci",
+    "image": "https://malegislature.gov/Legislators/Profile/170/CAM1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fourteenth Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:14th_essex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/christina-a-minicucci-3IrqUJhZ7E7EAcJOdlhZTP/",
+    "email": "christina.minicucci@mahouse.gov",
+    "surname": "Minicucci",
+    "salutation": "Dear Representative Minicucci"
+  },
+  {
+    "id": "ocd-person/1e7b8d51-56fa-4faf-93e6-9b485812ddf9",
+    "name": "Tram T. Nguyen",
+    "image": "https://malegislature.gov/Legislators/Profile/170/TTN1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eighteenth Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:18th_essex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/tram-t-nguyen-vWESa0wjWHYDinBLNIxlh/",
+    "email": "tram.nguyen@mahouse.gov",
+    "surname": "Nguyen",
+    "salutation": "Dear Representative Nguyen"
+  },
+  {
+    "id": "ocd-person/521620ea-1e5b-4a0c-94f8-abe888370e05",
+    "name": "Richard M. Haggerty",
+    "image": "https://malegislature.gov/Legislators/Profile/170/RMH1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Thirtieth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:30th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/richard-m-haggerty-2UtTyx7Vrs16l0G7wjxlO1/",
+    "email": "richard.haggerty@mahouse.gov",
+    "surname": "Haggerty",
+    "salutation": "Dear Representative Haggerty"
+  },
+  {
+    "id": "ocd-person/2998b05b-b83e-4a9b-9659-a609ddc63a34",
+    "name": "Joanne M. Comerford",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JMC0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Hampshire, Franklin and Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldu:hampshire_franklin_and_worcester",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/joanne-m-comerford-1GUSnGKYxQQ0uuO7IjRjXA/",
+    "email": "Jo.Comerford@masenate.gov",
+    "surname": "Comerford",
+    "salutation": "Dear Senator Comerford"
+  },
+  {
+    "id": "ocd-person/fbbda637-7a45-43f2-a13a-388dc50b02ee",
+    "name": "Kathleen R. LaNatra",
+    "image": "https://malegislature.gov/Legislators/Profile/170/KPL1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Twelfth Plymouth",
+      "division_id": "ocd-division/country:us/state:ma/sldl:12th_plymouth",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/kathleen-r-lanatra-7f1k85FfexeCc7eXqbikhS/",
+    "email": "kathleen.lanatra@mahouse.gov",
+    "surname": "LaNatra",
+    "salutation": "Dear Representative LaNatra"
+  },
+  {
+    "id": "ocd-person/ea385faa-049c-4743-ad41-3bbe58ee40e2",
+    "name": "Michelle L. Ciccolo",
+    "image": "https://malegislature.gov/Legislators/Profile/170/M_C2.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fifteenth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:15th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/michelle-l-ciccolo-77xxyXWXgHZeh3ZwrNYcZG/",
+    "email": "michelle.ciccolo@mahouse.gov",
+    "surname": "Ciccolo",
+    "salutation": "Dear Representative Ciccolo"
+  },
+  {
+    "id": "ocd-person/bed31f9a-e759-41a5-80b6-8b6bb9a64762",
+    "name": "Alyson M. Sullivan",
+    "image": "https://malegislature.gov/Legislators/Profile/170/AMS2.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Seventh Plymouth",
+      "division_id": "ocd-division/country:us/state:ma/sldl:7th_plymouth",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/alyson-m-sullivan-5o51bEx3tnMAs7p8cZknPG/",
+    "email": "alyson.sullivan@mahouse.gov",
+    "surname": "Sullivan",
+    "salutation": "Dear Representative Sullivan"
+  },
+  {
+    "id": "ocd-person/6ad38b3e-46dc-4367-b85a-26793ea9ff65",
+    "name": "Edward J. Kennedy",
+    "image": "https://malegislature.gov/Legislators/Profile/170/EDJ0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "First Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldu:1st_middlesex",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/edward-j-kennedy-3FZrTSK7yFlxrPt5ZlIK9d/",
+    "email": "edward.kennedy@masenate.gov",
+    "surname": "Kennedy",
+    "salutation": "Dear Senator Kennedy"
+  },
+  {
+    "id": "ocd-person/703d6d4e-3a1d-4a2e-82e3-3c9693b75953",
+    "name": "Liz Miranda",
+    "image": "https://malegislature.gov/Legislators/Profile/170/L_M2.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fifth Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:5th_suffolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/liz-miranda-3PnDC6zN1arbIqrGvfkOlH/",
+    "email": "liz.miranda@mahouse.gov",
+    "surname": "Miranda",
+    "salutation": "Dear Representative Miranda"
+  },
+  {
+    "id": "ocd-person/7bec754e-f2bf-41bc-8af4-9f11bde144d4",
+    "name": "Eric P. Lesser",
+    "image": "https://malegislature.gov/Legislators/Profile/170/EPL0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "First Hampden and Hampshire",
+      "division_id": "ocd-division/country:us/state:ma/sldu:1st_hampden_and_hampshire",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/eric-p-lesser-3lq7JLG45dWSBvSHl5GWsG/",
+    "email": "eric.lesser@masenate.gov",
+    "surname": "Lesser",
+    "salutation": "Dear Senator Lesser"
+  },
+  {
+    "id": "ocd-person/8f08817b-2428-4246-bdca-bdd1e32e6678",
+    "name": "James T. Welch",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JTW0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Hampden",
+      "division_id": "ocd-division/country:us/state:ma/sldu:hampden",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/james-t-welch-4LtmyQZsqzxnzjX51W3DJY/",
+    "email": "James.Welch@masenate.gov",
+    "surname": "Welch",
+    "salutation": "Dear Senator Welch"
+  },
+  {
+    "id": "ocd-person/4988891a-7204-4880-8f5f-776861f75b94",
+    "name": "Sonia Chang-Diaz",
+    "image": "https://malegislature.gov/Legislators/Profile/170/SCD0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Second Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldu:2nd_suffolk",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/sonia-chang-diaz-2Ekpsdjce2OjjQ77906YPE/",
+    "email": "Sonia.Chang-Diaz@masenate.gov",
+    "surname": "Chang-Diaz",
+    "salutation": "Dear Senator Chang-Diaz"
+  },
+  {
+    "id": "ocd-person/94929da6-2219-4a44-99c3-d6561eead9f5",
+    "name": "William N. Brownsberger",
+    "image": "https://malegislature.gov/Legislators/Profile/170/WNB0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Second Suffolk and Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldu:2nd_suffolk_and_middlesex",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/william-n-brownsberger-4WLrocvNAmh5WHS3m85Y9d/",
+    "email": "William.Brownsberger@masenate.gov",
+    "surname": "Brownsberger",
+    "salutation": "Dear Senator Brownsberger"
+  },
+  {
+    "id": "ocd-person/903ff59f-c40e-4432-bca7-c6588da7469e",
+    "name": "Dean A. Tran",
+    "image": "https://malegislature.gov/Legislators/Profile/170/DAT0.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Worcester and Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldu:worcester_and_middlesex",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/dean-a-tran-4OC7j8QZ2gfmBi4eS1EpJO/",
+    "email": "dean.tran@masenate.gov",
+    "surname": "Tran",
+    "salutation": "Dear Senator Tran"
+  },
+  {
+    "id": "ocd-person/d0956cb2-93df-4096-82ce-d39fbf0b9e36",
+    "name": "Joan B. Lovely",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JBL0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Second Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldu:2nd_essex",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/joan-b-lovely-6Lagr9KYr6LSaICOW8v8xK/",
+    "email": "Joan.Lovely@masenate.gov",
+    "surname": "Lovely",
+    "salutation": "Dear Senator Lovely"
+  },
+  {
+    "id": "ocd-person/5a0688ef-c0cd-469d-bd3c-fe9848724387",
+    "name": "Julian Cyr",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JAC0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Cape and Islands",
+      "division_id": "ocd-division/country:us/state:ma/sldu:cape_and_islands",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/julian-cyr-2jsILOvtglah9c0TAN7mR5/",
+    "email": "julian.cyr@masenate.gov",
+    "surname": "Cyr",
+    "salutation": "Dear Senator Cyr"
+  },
+  {
+    "id": "ocd-person/d691b834-a68d-44da-8140-9582ee37d8a6",
+    "name": "Sal N. DiDomenico",
+    "image": "https://malegislature.gov/Legislators/Profile/170/SND0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Middlesex and Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldu:middlesex_and_suffolk",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/sal-n-didomenico-6Wsx1Ta3o7RJTOsgGL3B7G/",
+    "email": "Sal.DiDomenico@masenate.gov",
+    "surname": "DiDomenico",
+    "salutation": "Dear Senator DiDomenico"
+  },
+  {
+    "id": "ocd-person/51061aeb-a4a4-470a-9618-4053cae39a48",
+    "name": "Harriette L. Chandler",
+    "image": "https://malegislature.gov/Legislators/Profile/170/HLC0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "First Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldu:1st_worcester",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/harriette-l-chandler-2StARuPxbzrJeDKCn5t2aG/",
+    "email": "Harriette.Chandler@masenate.gov",
+    "surname": "Chandler",
+    "salutation": "Dear Senator Chandler"
+  },
+  {
+    "id": "ocd-person/2cf31d35-c3e8-4627-a534-08dce38078db",
+    "name": "Michael J. Barrett",
+    "image": "https://malegislature.gov/Legislators/Profile/170/MJB0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Third Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldu:3rd_middlesex",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/michael-j-barrett-1MolTtgVKhHDlH1gFd1kN9/",
+    "email": "Mike.Barrett@masenate.gov",
+    "surname": "Barrett",
+    "salutation": "Dear Senator Barrett"
+  },
+  {
+    "id": "ocd-person/c59e1756-ad3e-4101-b64f-183c0abbf357",
+    "name": "Anne M. Gobi",
+    "image": "https://malegislature.gov/Legislators/Profile/170/AMG0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Worcester, Hampden, Hampshire and Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldu:worcester_hampden_hampshire_and_middlesex",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/anne-m-gobi-60tjeGS7QwrNatOgVOaGs3/",
+    "email": "anne.gobi@masenate.gov",
+    "surname": "Gobi",
+    "salutation": "Dear Senator Gobi"
+  },
+  {
+    "id": "ocd-person/edebef62-78d9-4f8b-a94d-65a29dbc09f6",
+    "name": "Ryan C. Fattman",
+    "image": "https://malegislature.gov/Legislators/Profile/170/RCF0.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Worcester and Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldu:worcester_and_norfolk",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/ryan-c-fattman-7Ex0Ftm5uhgXRapfWqWf5S/",
+    "email": "Ryan.Fattman@masenate.gov",
+    "surname": "Fattman",
+    "salutation": "Dear Senator Fattman"
+  },
+  {
+    "id": "ocd-person/9e8c3405-d8ed-4838-a376-d19c357f4cb4",
+    "name": "Marc R. Pacheco",
+    "image": "https://malegislature.gov/Legislators/Profile/170/MRP0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "First Plymouth and Bristol",
+      "division_id": "ocd-division/country:us/state:ma/sldu:1st_plymouth_and_bristol",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/marc-r-pacheco-4pArMZjrC1L00vhYqVqe9M/",
+    "email": "Marc.Pacheco@masenate.gov",
+    "surname": "Pacheco",
+    "salutation": "Dear Senator Pacheco"
+  },
+  {
+    "id": "ocd-person/ece82669-b6f6-4f0f-ae5d-7b238b1cd1dd",
+    "name": "Cynthia Stone Creem",
+    "image": "https://malegislature.gov/Legislators/Profile/170/CSC0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "First Middlesex and Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldu:1st_middlesex_and_norfolk",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/cynthia-stone-creem-7D2HU9fWCW1BAL3rTkg3H3/",
+    "email": "Cynthia.Creem@masenate.gov",
+    "surname": "Creem",
+    "salutation": "Dear Senator Creem"
+  },
+  {
+    "id": "ocd-person/7b48bd48-8d27-4dd8-958d-703571efe150",
+    "name": "Michael O. Moore",
+    "image": "https://malegislature.gov/Legislators/Profile/170/MOM0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Second Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldu:2nd_worcester",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/michael-o-moore-3kdIUKRMqA2bYcHMc9PP3g/",
+    "email": "Michael.Moore@masenate.gov",
+    "surname": "Moore",
+    "salutation": "Dear Senator Moore"
+  },
+  {
+    "id": "ocd-person/6de50ed2-4fe8-4b98-894d-0bc391c876b5",
+    "name": "Patricia D. Jehlen",
+    "image": "https://malegislature.gov/Legislators/Profile/170/PDJ0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Second Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldu:2nd_middlesex",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/patricia-d-jehlen-3LMqI08RJwWczeDSRbJGJ3/",
+    "email": "Patricia.Jehlen@masenate.gov",
+    "surname": "Jehlen",
+    "salutation": "Dear Senator Jehlen"
+  },
+  {
+    "id": "ocd-person/92a770ae-a348-4f86-92ad-c4a8ebc568f6",
+    "name": "Jason M. Lewis",
+    "image": "https://malegislature.gov/Legislators/Profile/170/jml0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Fifth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldu:5th_middlesex",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/jason-m-lewis-4SjOo1EGiitFVuM4GWm4gw/",
+    "email": "Jason.Lewis@masenate.gov",
+    "surname": "Lewis",
+    "salutation": "Dear Senator Lewis"
+  },
+  {
+    "id": "ocd-person/493988da-4de8-49a0-8d6c-090097e89920",
+    "name": "Patrick M. O'Connor",
+    "image": "https://malegislature.gov/Legislators/Profile/170/PMO.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Plymouth and Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldu:plymouth_and_norfolk",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/patrick-m-oconnor-2EAjSbIvIanTtyPkiOpwO0/",
+    "email": "Patrick.OConnor@masenate.gov",
+    "surname": "O'Connor",
+    "salutation": "Dear Senator O'Connor"
+  },
+  {
+    "id": "ocd-person/456b0061-febd-4ff7-8547-42be0685526f",
+    "name": "Cindy F. Friedman",
+    "image": "https://malegislature.gov/Legislators/Profile/170/CFF0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Fourth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldu:4th_middlesex",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/cindy-f-friedman-26zMxkQKVf02KQY4IicNNn/",
+    "email": "Cindy.Friedman@masenate.gov",
+    "surname": "Friedman",
+    "salutation": "Dear Senator Friedman"
+  },
+  {
+    "id": "ocd-person/31600b44-797b-4baf-80aa-0762b4f0aff5",
+    "name": "Mark C. Montigny",
+    "image": "https://malegislature.gov/Legislators/Profile/170/MCM0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Second Bristol and Plymouth",
+      "division_id": "ocd-division/country:us/state:ma/sldu:2nd_bristol_and_plymouth",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/mark-c-montigny-1VAW0V1tBvgeV1ZkIWeWGL/",
+    "email": "Mark.Montigny@masenate.gov",
+    "surname": "Montigny",
+    "salutation": "Dear Senator Montigny"
+  },
+  {
+    "id": "ocd-person/6a82d675-3496-48af-88cf-23c26355b01f",
+    "name": "Michael F. Rush",
+    "image": "https://malegislature.gov/Legislators/Profile/170/MFR0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Norfolk and Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldu:norfolk_and_suffolk",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/michael-f-rush-3EyyjqQ8sSmAT60KWr5KJD/",
+    "email": "Mike.Rush@masenate.gov",
+    "surname": "Rush",
+    "salutation": "Dear Senator Rush"
+  },
+  {
+    "id": "ocd-person/b390af07-1fa2-4516-b8f0-b6bd1b62121a",
+    "name": "Paul R. Feeney",
+    "image": "https://malegislature.gov/Legislators/Profile/170/PRF0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Bristol and Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldu:bristol_and_norfolk",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/paul-r-feeney-5SpkK6v4jBbkDOv13ELnNi/",
+    "email": "paul.feeney@masenate.gov",
+    "surname": "Feeney",
+    "salutation": "Dear Senator Feeney"
+  },
+  {
+    "id": "ocd-person/9b401ed2-b8a6-446d-87f1-080f944360a8",
+    "name": "Adam G. Hinds",
+    "image": "https://malegislature.gov/Legislators/Profile/170/AGH0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Berkshire, Hampshire, Franklin and Hampden",
+      "division_id": "ocd-division/country:us/state:ma/sldu:berkshire_hampshire_franklin_and_hampden",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/adam-g-hinds-4ix73P5ZcWeWPVN1JuK2Ya/",
+    "email": "adam.hinds@masenate.gov",
+    "surname": "Hinds",
+    "salutation": "Dear Senator Hinds"
+  },
+  {
+    "id": "ocd-person/c3cdd26f-1314-4366-89f6-17c4c540bce9",
+    "name": "Michael D. Brady",
+    "image": "https://malegislature.gov/Legislators/Profile/170/MDB0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Second Plymouth and Bristol",
+      "division_id": "ocd-division/country:us/state:ma/sldu:2nd_plymouth_and_bristol",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/michael-d-brady-5xTZ0dgiho7Vfa8Ltvpiaf/",
+    "email": "Michael.Brady@masenate.gov",
+    "surname": "Brady",
+    "salutation": "Dear Senator Brady"
+  },
+  {
+    "id": "ocd-person/7be04e69-85c6-44e4-a933-88c59c0675a5",
+    "name": "John F. Keenan",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JFK0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Norfolk and Plymouth",
+      "division_id": "ocd-division/country:us/state:ma/sldu:norfolk_and_plymouth",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/john-f-keenan-3lkYzsJcF9eZrD3O8XYYNB/",
+    "email": "John.Keenan@masenate.gov",
+    "surname": "Keenan",
+    "salutation": "Dear Senator Keenan"
+  },
+  {
+    "id": "ocd-person/af0d6647-3a7b-48d0-971c-bde55a75e78c",
+    "name": "Michael J. Rodrigues",
+    "image": "https://malegislature.gov/Legislators/Profile/170/MJR0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "First Bristol and Plymouth",
+      "division_id": "ocd-division/country:us/state:ma/sldu:1st_bristol_and_plymouth",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/michael-j-rodrigues-5KJmPTqMBWVbPjEEGvAIxw/",
+    "email": "Michael.Rodrigues@masenate.gov",
+    "surname": "Rodrigues",
+    "salutation": "Dear Senator Rodrigues"
+  },
+  {
+    "id": "ocd-person/429f87cf-f7a1-4201-ade4-9efeb9149d03",
+    "name": "Bruce E. Tarr",
+    "image": "https://malegislature.gov/Legislators/Profile/170/BET0.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "First Essex and Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldu:1st_essex_and_middlesex",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/bruce-e-tarr-21iOkdyExZggeotHb1K3gx/",
+    "email": "Bruce.Tarr@masenate.gov",
+    "surname": "Tarr",
+    "salutation": "Dear Senator Tarr"
+  },
+  {
+    "id": "ocd-person/9a5a1e33-a7d4-45c2-93cb-3c1bc630fbe2",
+    "name": "Joseph A. Boncore",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JAB0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "First Suffolk and Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldu:1st_suffolk_and_middlesex",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/joseph-a-boncore-4hG09AdaxZp41Ko68RmNaU/",
+    "email": "Joseph.Boncore@masenate.gov",
+    "surname": "Boncore",
+    "salutation": "Dear Senator Boncore"
+  },
+  {
+    "id": "ocd-person/e48879ef-ed74-4f93-8e5b-c0f3752d4fd7",
+    "name": "Karen E. Spilka",
+    "image": "https://malegislature.gov/Legislators/Profile/170/KES0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Second Middlesex and Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldu:2nd_middlesex_and_norfolk",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/karen-e-spilka-6xEcSpht9SEcrczZ2N2YnH/",
+    "email": "Karen.Spilka@masenate.gov",
+    "surname": "Spilka",
+    "salutation": "Dear Senator Spilka"
+  },
+  {
+    "id": "ocd-person/23704722-a50c-4148-8f14-98c7d78324b9",
+    "name": "James B. Eldridge",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JBE0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Middlesex and Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldu:middlesex_and_worcester",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/james-b-eldridge-14s2dexkVZIj0oc1YMdv2n/",
+    "email": "James.Eldridge@masenate.gov",
+    "surname": "Eldridge",
+    "salutation": "Dear Senator Eldridge"
+  },
+  {
+    "id": "ocd-person/7d66e1ca-1fb3-4194-bb18-f9924c528df2",
+    "name": "Kate Lipper-Garabedian",
+    "image": "https://malegislature.gov/Legislators/Profile/170/KLG1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Thirty-Second Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:32nd_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/kate-lipper-garabedian-3od3bEkJH71DoTkSIoytGs/",
+    "email": "kate.lipper-garabedian@mahouse.gov",
+    "surname": "Lipper-Garabedian",
+    "salutation": "Dear Representative Lipper-Garabedian"
+  },
+  {
+    "id": "ocd-person/1ea6937d-a39e-41e2-92fb-47c2966cd52e",
+    "name": "John J. Lawn, Jr.",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JJL2.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Tenth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:10th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/john-j-lawn-jr-vptVayhBpXLjGCwTr55Kw/",
+    "email": "John.Lawn@mahouse.gov",
+    "surname": "Jr.",
+    "salutation": "Dear Representative Jr."
+  },
+  {
+    "id": "ocd-person/4246ee2e-3e90-40c2-ae05-76bf836889ee",
+    "name": "Paul F. Tucker",
+    "image": "https://malegislature.gov/Legislators/Profile/170/PFT1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Seventh Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:7th_essex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/paul-f-tucker-213uLf78rTAyVdOaFHC0sA/",
+    "email": "Paul.Tucker@mahouse.gov",
+    "surname": "Tucker",
+    "salutation": "Dear Representative Tucker"
+  },
+  {
+    "id": "ocd-person/b9a91cec-bad7-43a7-8fd2-60cd704bd7ab",
+    "name": "Carmine Lawrence Gentile",
+    "image": "https://malegislature.gov/Legislators/Profile/170/CLG1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Thirteenth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:13th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/carmine-lawrence-gentile-5eKreNdCpB1oaigkPQKDnv/",
+    "email": "carmine.gentile@mahouse.gov",
+    "surname": "Gentile",
+    "salutation": "Dear Representative Gentile"
+  },
+  {
+    "id": "ocd-person/f8772f1e-29f7-42e2-8a8c-ab4005153b05",
+    "name": "Adrian C. Madaro",
+    "image": "https://malegislature.gov/Legislators/Profile/170/ACM1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "First Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:1st_suffolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/adrian-c-madaro-7YqYzODhFcy187pqBwYJnh/",
+    "email": "Adrian.Madaro@mahouse.gov",
+    "surname": "Madaro",
+    "salutation": "Dear Representative Madaro"
+  },
+  {
+    "id": "ocd-person/c8936e7c-f0f5-4dc4-b9e9-774e38638787",
+    "name": "James K. Hawkins",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JKH1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Second Bristol",
+      "division_id": "ocd-division/country:us/state:ma/sldl:2nd_bristol",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/james-k-hawkins-66TqByFVTtR4f3uhKVlFln/",
+    "email": "james.hawkins@mahouse.gov",
+    "surname": "Hawkins",
+    "salutation": "Dear Representative Hawkins"
+  },
+  {
+    "id": "ocd-person/eaf07396-2e80-4e14-b236-f895882535ca",
+    "name": "Josu00e9 F. Tosado",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JFT1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Ninth Hampden",
+      "division_id": "ocd-division/country:us/state:ma/sldl:9th_hampden",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/jose-f-tosado-79K5eQVmebbUHG3DpyLQWg/",
+    "email": "Jose.Tosado@mahouse.gov",
+    "surname": "Tosado",
+    "salutation": "Dear Representative Tosado"
+  },
+  {
+    "id": "ocd-person/cd05a88c-19f0-4fc5-bc3b-d339572842b7",
+    "name": "Dylan A. Fernandes",
+    "image": "https://malegislature.gov/Legislators/Profile/170/DAF1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Barnstable, Dukes and Nantucket",
+      "division_id": "ocd-division/country:us/state:ma/sldl:barnstable_dukes_and_nantucket",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/dylan-a-fernandes-6Es0nfqHiPUOpvYJJ0V7sV/",
+    "email": "Dylan.Fernandes@mahouse.gov",
+    "surname": "Fernandes",
+    "salutation": "Dear Representative Fernandes"
+  },
+  {
+    "id": "ocd-person/c1f81bec-d032-4f41-940c-ca32f2b5af12",
+    "name": "Andres X. Vargas",
+    "image": "https://malegislature.gov/Legislators/Profile/170/AXV1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Third Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:3rd_essex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/andres-x-vargas-5u0u7sb6Vmsne4xMat4Yug/",
+    "email": "andy.vargas@mahouse.gov",
+    "surname": "Vargas",
+    "salutation": "Dear Representative Vargas"
+  },
+  {
+    "id": "ocd-person/3577fe5d-44ba-4ab8-ab2b-40524dac3755",
+    "name": "William L. Crocker, Jr.",
+    "image": "https://malegislature.gov/Legislators/Profile/170/WLC1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Second Barnstable",
+      "division_id": "ocd-division/country:us/state:ma/sldl:2nd_barnstable",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/william-l-crocker-jr-1ctQh5Mv9EaVz1cBuHr8rt/",
+    "email": "William.Crocker@mahouse.gov",
+    "surname": "Jr.",
+    "salutation": "Dear Representative Jr."
+  },
+  {
+    "id": "ocd-person/1b7d1710-da71-46cd-9ee3-fc891556f3a9",
+    "name": "William J. Driscoll, Jr.",
+    "image": "https://malegislature.gov/Legislators/Profile/170/WJD1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Seventh Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:7th_norfolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/william-j-driscoll-jr-prxT1lPrcttQqxuog3ZHt/",
+    "email": "William.Driscoll@mahouse.gov",
+    "surname": "Jr.",
+    "salutation": "Dear Representative Jr."
+  },
+  {
+    "id": "ocd-person/db47013a-7653-4b44-8e11-9dbe4b85fec2",
+    "name": "Peter J. Durant",
+    "image": "https://malegislature.gov/Legislators/Profile/170/PJD2.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Sixth Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldl:6th_worcester",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/peter-j-durant-6fllfcsEQnhRV8hCij1wGo/",
+    "email": "Peter.Durant@mahouse.gov",
+    "surname": "Durant",
+    "salutation": "Dear Representative Durant"
+  },
+  {
+    "id": "ocd-person/8302648f-4ed2-454e-ad1e-d7389e25b8dc",
+    "name": "Angelo J. Puppolo, Jr.",
+    "image": "https://malegislature.gov/Legislators/Profile/170/AJP1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Twelfth Hampden",
+      "division_id": "ocd-division/country:us/state:ma/sldl:12th_hampden",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/angelo-j-puppolo-jr-3zD5Td3ReKSKkVEXJOkynU/",
+    "email": "Angelo.Puppolo@mahouse.gov",
+    "surname": "Jr.",
+    "salutation": "Dear Representative Jr."
+  },
+  {
+    "id": "ocd-person/4183f327-e2a6-4b1a-9d23-161da1b5e261",
+    "name": "Aaron Michlewitz",
+    "image": "https://malegislature.gov/Legislators/Profile/170/AMM1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Third Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:3rd_suffolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/aaron-michlewitz-1zcnkmjbvPDmiVMWTt6ZkH/",
+    "email": "Aaron.M.Michlewitz@mahouse.gov",
+    "surname": "Michlewitz",
+    "salutation": "Dear Representative Michlewitz"
+  },
+  {
+    "id": "ocd-person/88e0ae45-75e7-48b6-880a-1a4c039d4373",
+    "name": "Smitty Pignatelli",
+    "image": "https://malegislature.gov/Legislators/Profile/170/WSP1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fourth Berkshire",
+      "division_id": "ocd-division/country:us/state:ma/sldl:4th_berkshire",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/smitty-pignatelli-4AHdQEwA2XoOErx5qquk43/",
+    "email": "rep.smitty@mahouse.gov",
+    "surname": "Pignatelli",
+    "salutation": "Dear Representative Pignatelli"
+  },
+  {
+    "id": "ocd-person/59aed143-c5c1-4760-ac55-eab18600c451",
+    "name": "Antonio F. D. Cabral",
+    "image": "https://malegislature.gov/Legislators/Profile/170/AFC1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Thirteenth Bristol",
+      "division_id": "ocd-division/country:us/state:ma/sldl:13th_bristol",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/antonio-f-d-cabral-2jECwzc0EEshC9XyG83iqX/",
+    "email": "Antonio.Cabral@mahouse.gov",
+    "surname": "Cabral",
+    "salutation": "Dear Representative Cabral"
+  },
+  {
+    "id": "ocd-person/b23dd64e-a05c-4fe1-8562-c29436ca79bb",
+    "name": "Bud L. Williams",
+    "image": "https://malegislature.gov/Legislators/Profile/170/BLW1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eleventh Hampden",
+      "division_id": "ocd-division/country:us/state:ma/sldl:11th_hampden",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/bud-l-williams-5QKtPyVwMvhtaEEAAXLgxX/",
+    "email": "Bud.Williams@mahouse.gov",
+    "surname": "Williams",
+    "salutation": "Dear Representative Williams"
+  },
+  {
+    "id": "ocd-person/06d8e7f7-fc49-4dcf-bf23-33d36a6dcb38",
+    "name": "Lenny Mirra",
+    "image": "https://malegislature.gov/Legislators/Profile/170/L_M1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Second Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:2nd_essex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/lenny-mirra-Cv4yp70bhDYC9Z7ch8pQm/",
+    "email": "Leonard.Mirra@mahouse.gov",
+    "surname": "Mirra",
+    "salutation": "Dear Representative Mirra"
+  },
+  {
+    "id": "ocd-person/51c2533b-95e0-45c5-9100-0c6d68efb192",
+    "name": "Paul A. Schmid, III",
+    "image": "https://malegislature.gov/Legislators/Profile/170/PAS1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eighth Bristol",
+      "division_id": "ocd-division/country:us/state:ma/sldl:8th_bristol",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/paul-a-schmid-iii-2UHBUMNBWP7vyBTFKctfAQ/",
+    "email": "Paul.Schmid@mahouse.gov",
+    "surname": "III",
+    "salutation": "Dear Representative III"
+  },
+  {
+    "id": "ocd-person/17c3ac90-1218-4d61-ae47-bc5ef6ee4a74",
+    "name": "Natalie M. Higgins",
+    "image": "https://malegislature.gov/Legislators/Profile/170/N_H1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fourth Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldl:4th_worcester",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/natalie-m-higgins-iqFImcwIkOBlCOu2gSioe/",
+    "email": "Natalie.Higgins@mahouse.gov",
+    "surname": "Higgins",
+    "salutation": "Dear Representative Higgins"
+  },
+  {
+    "id": "ocd-person/207ff26d-21a1-448a-bd09-c1b08c2a6f62",
+    "name": "Mathew J. Muratore",
+    "image": "https://malegislature.gov/Legislators/Profile/170/MJM2.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "First Plymouth",
+      "division_id": "ocd-division/country:us/state:ma/sldl:1st_plymouth",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/mathew-j-muratore-zKE2GSbw1zs5A8juuA1ze/",
+    "email": "Mathew.Muratore@mahouse.gov",
+    "surname": "Muratore",
+    "salutation": "Dear Representative Muratore"
+  },
+  {
+    "id": "ocd-person/33017dde-3525-43ff-8c3a-fb44a4a9d833",
+    "name": "Harold P. Naughton, Jr.",
+    "image": "https://malegislature.gov/Legislators/Profile/170/HPN1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Twelfth Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldl:12th_worcester",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/harold-p-naughton-jr-1YFI0BqDebnhDvseYmGvXH/",
+    "email": "Harold.Naughton@mahouse.gov",
+    "surname": "Jr.",
+    "salutation": "Dear Representative Jr."
+  },
+  {
+    "id": "ocd-person/a8225754-d88c-4343-8829-aa168b564cbd",
+    "name": "Mike Connolly",
+    "image": "https://malegislature.gov/Legislators/Profile/170/M_C1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Twenty-Sixth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:26th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/mike-connolly-57GP6LjSakeureUoIZl5i9/",
+    "email": "Mike.Connolly@mahouse.gov",
+    "surname": "Connolly",
+    "salutation": "Dear Representative Connolly"
+  },
+  {
+    "id": "ocd-person/2c809d40-ca4d-47e4-bfe5-14eaa37ecf43",
+    "name": "Daniel R. Cullinane",
+    "image": "https://malegislature.gov/Legislators/Profile/170/D_C1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Twelfth Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:12th_suffolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/daniel-r-cullinane-1LyREZ3lwnciXrsCfs2Gmp/",
+    "email": "Daniel.Cullinane@mahouse.gov",
+    "surname": "Cullinane",
+    "salutation": "Dear Representative Cullinane"
+  },
+  {
+    "id": "ocd-person/da8051b7-de05-4c30-9d37-5d7223906356",
+    "name": "John Barrett, III",
+    "image": "https://malegislature.gov/Legislators/Profile/170/J_B1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "First Berkshire",
+      "division_id": "ocd-division/country:us/state:ma/sldl:1st_berkshire",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/john-barrett-iii-6eIy65iakh2wD52PYbTlLS/",
+    "email": "john.barrett@mahouse.gov",
+    "surname": "III",
+    "salutation": "Dear Representative III"
+  },
+  {
+    "id": "ocd-person/76b07f35-1876-4259-9c0a-bdf595541c39",
+    "name": "Susannah M. Whipps",
+    "image": "https://malegislature.gov/Legislators/Profile/170/SLG1.jpg",
+    "current_role": {
+      "party": "Independent",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Second Franklin",
+      "division_id": "ocd-division/country:us/state:ma/sldl:2nd_franklin",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/susannah-m-whipps-3bxkjyHDCbQ25mlVRW3KwL/",
+    "email": "Susannah.Whipps@mahouse.gov",
+    "surname": "Whipps",
+    "salutation": "Dear Representative Whipps"
+  },
+  {
+    "id": "ocd-person/c51da7d7-aaf6-4621-a544-6910d5113fc2",
+    "name": "Thomas A. Golden, Jr.",
+    "image": "https://malegislature.gov/Legislators/Profile/170/TAG1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Sixteenth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:16th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/thomas-a-golden-jr-5zx2XuKt2l0X4jMBM0kRmc/",
+    "email": "Thomas.Golden@mahouse.gov",
+    "surname": "Jr.",
+    "salutation": "Dear Representative Jr."
+  },
+  {
+    "id": "ocd-person/3a1863b5-ca54-44d8-9afb-55f48623fd47",
+    "name": "Gerard J. Cassidy",
+    "image": "https://malegislature.gov/Legislators/Profile/170/G_C2.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Ninth Plymouth",
+      "division_id": "ocd-division/country:us/state:ma/sldl:9th_plymouth",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/gerard-j-cassidy-1lchSccZS81BJeEg5bTEut/",
+    "email": "Gerard.Cassidy@mahouse.gov",
+    "surname": "Cassidy",
+    "salutation": "Dear Representative Cassidy"
+  },
+  {
+    "id": "ocd-person/66e7c819-cd52-4034-bace-bfec476c106d",
+    "name": "Brian W. Murray",
+    "image": "https://malegislature.gov/Legislators/Profile/170/BWM1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Tenth Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldl:10th_worcester",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/brian-w-murray-38B8nJB4GIm2DbUt1vCN9J/",
+    "email": "Brian.Murray@mahouse.gov",
+    "surname": "Murray",
+    "salutation": "Dear Representative Murray"
+  },
+  {
+    "id": "ocd-person/3b92fb1f-d268-40d8-8a4e-851f11fe81ff",
+    "name": "Chynah Tyler",
+    "image": "https://malegislature.gov/Legislators/Profile/170/C_T1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Seventh Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:7th_suffolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/chynah-tyler-1oPiV88Q0QGgbaZM4aeMbn/",
+    "email": "Chynah.Tyler@mahouse.gov",
+    "surname": "Tyler",
+    "salutation": "Dear Representative Tyler"
+  },
+  {
+    "id": "ocd-person/03d1f31d-1431-41d2-88b7-67b57d50f323",
+    "name": "Joan Meschino",
+    "image": "https://malegislature.gov/Legislators/Profile/170/J_M1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Third Plymouth",
+      "division_id": "ocd-division/country:us/state:ma/sldl:3rd_plymouth",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/joan-meschino-7CvInQkeP77v967Dlg11X/",
+    "email": "Joan.Meschino@mahouse.gov",
+    "surname": "Meschino",
+    "salutation": "Dear Representative Meschino"
+  },
+  {
+    "id": "ocd-person/c4d03c0e-713d-4195-ba23-1394f225494b",
+    "name": "Carlos Gonzu00e1lez",
+    "image": "https://malegislature.gov/Legislators/Profile/170/C_G1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Tenth Hampden",
+      "division_id": "ocd-division/country:us/state:ma/sldl:10th_hampden",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/carlos-gonzalez-5zNetMugfU4zird1IdVJ8N/",
+    "email": "Carlos.Gonzalez@mahouse.gov",
+    "surname": "Gonzu00e1lez",
+    "salutation": "Dear Representative Gonzu00e1lez"
+  },
+  {
+    "id": "ocd-person/e3dc06b1-8523-4a33-959f-21ed0d5da851",
+    "name": "Jack Patrick Lewis",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JPL1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Seventh Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:7th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/jack-patrick-lewis-6vxoFOJrZJp1GyWHalUVjl/",
+    "email": "Jack.Lewis@mahouse.gov",
+    "surname": "Lewis",
+    "salutation": "Dear Representative Lewis"
+  },
+  {
+    "id": "ocd-person/368c3f95-1124-4f0a-9ab5-7361cb2805d3",
+    "name": "Bradley H. Jones, Jr.",
+    "image": "https://malegislature.gov/Legislators/Profile/170/BHJ1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Twentieth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:20th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/bradley-h-jones-jr-1evg7Nv7E9cXvarh7zp055/",
+    "email": "Bradley.Jones@mahouse.gov",
+    "surname": "Jr.",
+    "salutation": "Dear Representative Jr."
+  },
+  {
+    "id": "ocd-person/ee42e89c-24dd-47b1-aafa-e16472680e07",
+    "name": "F. Jay Barrows",
+    "image": "https://malegislature.gov/Legislators/Profile/170/FJB1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "First Bristol",
+      "division_id": "ocd-division/country:us/state:ma/sldl:1st_bristol",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/f-jay-barrows-7FakZQscyq8pvsHK8btQxz/",
+    "email": "F.JayBarrows@mahouse.gov",
+    "surname": "Barrows",
+    "salutation": "Dear Representative Barrows"
+  },
+  {
+    "id": "ocd-person/b9019024-899b-41b3-a283-69c50866fabd",
+    "name": "Marjorie C. Decker",
+    "image": "https://malegislature.gov/Legislators/Profile/170/MCD1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Twenty-Fifth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:25th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/marjorie-c-decker-5d6IHFuSFn1JwqnCx133dd/",
+    "email": "Marjorie.Decker@mahouse.gov",
+    "surname": "Decker",
+    "salutation": "Dear Representative Decker"
+  },
+  {
+    "id": "ocd-person/fd5aaac8-48f5-42c2-82a8-abaf6c5de650",
+    "name": "Paul W. Mark",
+    "image": "https://malegislature.gov/Legislators/Profile/170/PWM1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Second Berkshire",
+      "division_id": "ocd-division/country:us/state:ma/sldl:2nd_berkshire",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/paul-w-mark-7i4UbqUwlscN7DDWSmfgf2/",
+    "email": "Paul.Mark@mahouse.gov",
+    "surname": "Mark",
+    "salutation": "Dear Representative Mark"
+  },
+  {
+    "id": "ocd-person/18bf433d-24e5-46cb-9d83-c2f9373204bd",
+    "name": "Paul J. Donato",
+    "image": "https://malegislature.gov/Legislators/Profile/170/PJD1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Thirty-Fifth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:35th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/paul-j-donato-khDpgeYIWRpuq8J2f59FF/",
+    "email": "Paul.Donato@mahouse.gov",
+    "surname": "Donato",
+    "salutation": "Dear Representative Donato"
+  },
+  {
+    "id": "ocd-person/0e6c20bd-bfcb-445c-a1ce-3be99e26398e",
+    "name": "Joseph D. McKenna",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JDM1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eighteenth Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldl:18th_worcester",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/joseph-d-mckenna-RDJ2jnt89C6PmrzoHm5h0/",
+    "email": "joseph.mckenna@mahouse.gov",
+    "surname": "McKenna",
+    "salutation": "Dear Representative McKenna"
+  },
+  {
+    "id": "ocd-person/b601dee7-1ad1-4f36-b585-b0fb5077fd89",
+    "name": "David K. Muradian, Jr.",
+    "image": "https://malegislature.gov/Legislators/Profile/170/DKM1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Ninth Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldl:9th_worcester",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/david-k-muradian-jr-5XRSQCkkue5GWMdOk7xaRN/",
+    "email": "David.Muradian@mahouse.gov",
+    "surname": "Jr.",
+    "salutation": "Dear Representative Jr."
+  },
+  {
+    "id": "ocd-person/650d9459-5ecd-4e1a-8a96-f061a15e0ebc",
+    "name": "Angelo L. D'Emilia",
+    "image": "https://malegislature.gov/Legislators/Profile/170/ALD1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eighth Plymouth",
+      "division_id": "ocd-division/country:us/state:ma/sldl:8th_plymouth",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/angelo-l-demilia-34gQiGDwWWGDW7JavZUIO4/",
+    "email": "Angelo.D&#39;Emilia@mahouse.gov",
+    "surname": "D'Emilia",
+    "salutation": "Dear Representative D'Emilia"
+  },
+  {
+    "id": "ocd-person/70e42c78-89e1-43cb-bc65-7d0da132daa2",
+    "name": "James Arciero",
+    "image": "https://malegislature.gov/Legislators/Profile/170/J_A1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Second Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:2nd_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/james-arciero-3R1PoGGyuvYJk49xg9Mxec/",
+    "email": "James.Arciero@mahouse.gov",
+    "surname": "Arciero",
+    "salutation": "Dear Representative Arciero"
+  },
+  {
+    "id": "ocd-person/2fd8669d-a5e2-40fd-bb2f-595210f1bf49",
+    "name": "Michael J. Moran",
+    "image": "https://malegislature.gov/Legislators/Profile/170/MJM1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eighteenth Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:18th_suffolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/michael-j-moran-1SHX9syMeOKvWJ6abFH0Uz/",
+    "email": "Michael.Moran@mahouse.gov",
+    "surname": "Moran",
+    "salutation": "Dear Representative Moran"
+  },
+  {
+    "id": "ocd-person/0e72fc19-89be-49b9-8baf-5f35f938ec87",
+    "name": "Nicholas A. Boldyga",
+    "image": "https://malegislature.gov/Legislators/Profile/170/NAG1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Third Hampden",
+      "division_id": "ocd-division/country:us/state:ma/sldl:3rd_hampden",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/nicholas-a-boldyga-RGRKHxUcmxmNqTsmhUOcp/",
+    "email": "Nicholas.Boldyga@mahouse.gov",
+    "surname": "Boldyga",
+    "salutation": "Dear Representative Boldyga"
+  },
+  {
+    "id": "ocd-person/2de2c3a2-84f4-495d-89a3-fd4ee36fb29b",
+    "name": "RoseLee Vincent",
+    "image": "https://malegislature.gov/Legislators/Profile/170/r_v1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Sixteenth Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:16th_suffolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/roselee-vincent-1OaHkJfqOy47kxjLZvsQzj/",
+    "email": "RoseLee.Vincent@mahouse.gov",
+    "surname": "Vincent",
+    "salutation": "Dear Representative Vincent"
+  },
+  {
+    "id": "ocd-person/ec37a070-639f-4c27-9228-33c9d38f9639",
+    "name": "Diana DiZoglio",
+    "image": "https://malegislature.gov/Legislators/Profile/170/D_D0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "First Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldu:1st_essex",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/diana-dizoglio-7BjbrKfGO6eSE5FFG4993Z/",
+    "email": "Diana.DiZoglio@masenate.gov",
+    "surname": "DiZoglio",
+    "salutation": "Dear Senator DiZoglio"
+  },
+  {
+    "id": "ocd-person/22647240-e595-43f4-84d4-3984ebc846e2",
+    "name": "Joseph F. Wagner",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JFW1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eighth Hampden",
+      "division_id": "ocd-division/country:us/state:ma/sldl:8th_hampden",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/joseph-f-wagner-12tdsU2wj1EvBmtRSJVuCY/",
+    "email": "Joseph.Wagner@mahouse.gov",
+    "surname": "Wagner",
+    "salutation": "Dear Representative Wagner"
+  },
+  {
+    "id": "ocd-person/503a0888-f086-4b52-b03c-c5293378bc51",
+    "name": "Brian M. Ashe",
+    "image": "https://malegislature.gov/Legislators/Profile/170/BMA1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Second Hampden",
+      "division_id": "ocd-division/country:us/state:ma/sldl:2nd_hampden",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/brian-m-ashe-2RNuGJKB9RM8td4WwwHKfx/",
+    "email": "Brian.Ashe@mahouse.gov",
+    "surname": "Ashe",
+    "salutation": "Dear Representative Ashe"
+  },
+  {
+    "id": "ocd-person/b2e82b19-68d5-4f18-88a3-c4c399252a58",
+    "name": "James M. Kelcourse",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JMK1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "First Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:1st_essex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/james-m-kelcourse-5Rajb1ix8y6cwNnQ7G88M4/",
+    "email": "james.kelcourse@mahouse.gov",
+    "surname": "Kelcourse",
+    "salutation": "Dear Representative Kelcourse"
+  },
+  {
+    "id": "ocd-person/9f7305fa-a7b5-4931-98fc-621a53d3717b",
+    "name": "Lori A. Ehrlich",
+    "image": "https://malegislature.gov/Legislators/Profile/170/LAE1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eighth Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:8th_essex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/lori-a-ehrlich-4qsLRIYOrmKheZjKwwUy6d/",
+    "email": "Lori.Ehrlich@mahouse.gov",
+    "surname": "Ehrlich",
+    "salutation": "Dear Representative Ehrlich"
+  },
+  {
+    "id": "ocd-person/c4e46af4-a67d-4f8a-96ba-bf2a95efbe24",
+    "name": "Elizabeth A. Poirier",
+    "image": "https://malegislature.gov/Legislators/Profile/170/EAP1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fourteenth Bristol",
+      "division_id": "ocd-division/country:us/state:ma/sldl:14th_bristol",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/elizabeth-a-poirier-5zWslSOI8onMPDENpc3T08/",
+    "email": "Elizabeth.Poirier@mahouse.gov",
+    "surname": "Poirier",
+    "salutation": "Dear Representative Poirier"
+  },
+  {
+    "id": "ocd-person/706d94f1-3c2e-4f39-8386-e159b8de775e",
+    "name": "Stephan Hay",
+    "image": "https://malegislature.gov/Legislators/Profile/170/S_H1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Third Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldl:3rd_worcester",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/stephan-hay-3Q9DcKDdsvG4m79WjYZgv0/",
+    "email": "Stephan.Hay@mahouse.gov",
+    "surname": "Hay",
+    "salutation": "Dear Representative Hay"
+  },
+  {
+    "id": "ocd-person/50942563-77bb-49ec-a54c-6e26048a31a3",
+    "name": "John H. Rogers",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JHR1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Twelfth Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:12th_norfolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/john-h-rogers-2S35WTFX4vrFVfjl9YdE9r/",
+    "email": "John.Rogers@mahouse.gov",
+    "surname": "Rogers",
+    "salutation": "Dear Representative Rogers"
+  },
+  {
+    "id": "ocd-person/d2f16a1f-415d-4e60-b905-2f4c71959e0f",
+    "name": "Patricia A. Haddad",
+    "image": "https://malegislature.gov/Legislators/Profile/170/PAH1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fifth Bristol",
+      "division_id": "ocd-division/country:us/state:ma/sldl:5th_bristol",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/patricia-a-haddad-6Q2iM4dMRI6OQYd9sxmy3r/",
+    "email": "Patricia.Haddad@mahouse.gov",
+    "surname": "Haddad",
+    "salutation": "Dear Representative Haddad"
+  },
+  {
+    "id": "ocd-person/b51c5c27-7da0-42f5-b67b-22085173af7a",
+    "name": "Mark J. Cusack",
+    "image": "https://malegislature.gov/Legislators/Profile/170/MJC1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fifth Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:5th_norfolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/mark-j-cusack-5VkZRjOwFWJsUrzZRMaoZO/",
+    "email": "Mark.Cusack@mahouse.gov",
+    "surname": "Cusack",
+    "salutation": "Dear Representative Cusack"
+  },
+  {
+    "id": "ocd-person/8ca6ea6c-1121-40b3-a5cf-9b55dfe6a2b0",
+    "name": "Nick Collins",
+    "image": "https://malegislature.gov/Legislators/Profile/170/N_C0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "First Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldu:1st_suffolk",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/nick-collins-4HPCnfvtqDNh28t2obI5bc/",
+    "email": "Nick.Collins@masenate.gov",
+    "surname": "Collins",
+    "salutation": "Dear Senator Collins"
+  },
+  {
+    "id": "ocd-person/adb172f4-64c0-4c96-8097-71bd125fc2e0",
+    "name": "Susan Williams Gifford",
+    "image": "https://malegislature.gov/Legislators/Profile/170/SWG1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Second Plymouth",
+      "division_id": "ocd-division/country:us/state:ma/sldl:2nd_plymouth",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/susan-williams-gifford-5HklYNKn7IZyIyqYpvI6F6/",
+    "email": "Susan.Gifford@mahouse.gov",
+    "surname": "Gifford",
+    "salutation": "Dear Representative Gifford"
+  },
+  {
+    "id": "ocd-person/a37a3f66-83a2-4a7e-90e3-8de41be7262d",
+    "name": "John C. Velis",
+    "image": "https://malegislature.gov/Legislators/Profile/170/jcv1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fourth Hampden",
+      "division_id": "ocd-division/country:us/state:ma/sldl:4th_hampden",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/john-c-velis-4yTcELJ9n51Q00xvB5PSFp/",
+    "email": "john.velis@mahouse.gov",
+    "surname": "Velis",
+    "salutation": "Dear Representative Velis"
+  },
+  {
+    "id": "ocd-person/3b5ba366-0e1a-4d72-ba0a-515010e67d9a",
+    "name": "Jonathan Hecht",
+    "image": "https://malegislature.gov/Legislators/Profile/170/J_H1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Twenty-Ninth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:29th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/jonathan-hecht-1o0QPvtHiSYLSmNkeNL9Vi/",
+    "email": "Jonathan.Hecht@mahouse.gov",
+    "surname": "Hecht",
+    "salutation": "Dear Representative Hecht"
+  },
+  {
+    "id": "ocd-person/2a9569a0-feaf-431d-8a8d-012d8ebccbf8",
+    "name": "Alice Hanlon Peisch",
+    "image": "https://malegislature.gov/Legislators/Profile/170/AHP1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fourteenth Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:14th_norfolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/alice-hanlon-peisch-1ILxUGwFL5Y6CeBux2agLQ/",
+    "email": "Alice.Peisch@mahouse.gov",
+    "surname": "Peisch",
+    "salutation": "Dear Representative Peisch"
+  },
+  {
+    "id": "ocd-person/3d709a64-6cd2-49c6-ad0d-b007e834bfec",
+    "name": "Kate Hogan",
+    "image": "https://malegislature.gov/Legislators/Profile/170/K_H1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Third Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:3rd_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/kate-hogan-1rvzU6uwUOvir3d5PYHorM/",
+    "email": "Kate.Hogan@mahouse.gov",
+    "surname": "Hogan",
+    "salutation": "Dear Representative Hogan"
+  },
+  {
+    "id": "ocd-person/7b9e688f-a9aa-425b-8d3d-833993d6d58a",
+    "name": "Rady Mom",
+    "image": "https://malegislature.gov/Legislators/Profile/170/R_M2.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eighteenth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:18th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/rady-mom-3lGRqGHAfe5HUVjz7c9S4g/",
+    "email": "Rady.Mom@mahouse.gov",
+    "surname": "Mom",
+    "salutation": "Dear Representative Mom"
+  },
+  {
+    "id": "ocd-person/b23d4ed5-1994-4355-a102-cdf15ae57230",
+    "name": "Jeffrey N. Roy",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JNR1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Tenth Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:10th_norfolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/jeffrey-n-roy-5QKeQKGgkDkD0VMvK7uQca/",
+    "email": "Jeffrey.Roy@mahouse.gov",
+    "surname": "Roy",
+    "salutation": "Dear Representative Roy"
+  },
+  {
+    "id": "ocd-person/c0519476-08fc-44af-9114-c77d197f883d",
+    "name": "Daniel J. Ryan",
+    "image": "https://malegislature.gov/Legislators/Profile/170/djr1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Second Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:2nd_suffolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/daniel-j-ryan-5qto9SLOdiw94hGQqBTFc5/",
+    "email": "Dan.Ryan@mahouse.gov",
+    "surname": "Ryan",
+    "salutation": "Dear Representative Ryan"
+  },
+  {
+    "id": "ocd-person/54487f49-5377-4c41-bd97-60b748cc240a",
+    "name": "Steven S. Howitt",
+    "image": "https://malegislature.gov/Legislators/Profile/170/SSH1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fourth Bristol",
+      "division_id": "ocd-division/country:us/state:ma/sldl:4th_bristol",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/steven-s-howitt-2Z2UBCeGanbF0QvyT89HZq/",
+    "email": "Steven.Howitt@mahouse.gov",
+    "surname": "Howitt",
+    "salutation": "Dear Representative Howitt"
+  },
+  {
+    "id": "ocd-person/46d663c3-6d1a-42d6-8ae4-db406f20af8a",
+    "name": "Timothy R. Whelan",
+    "image": "https://malegislature.gov/Legislators/Profile/170/TRW1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "First Barnstable",
+      "division_id": "ocd-division/country:us/state:ma/sldl:1st_barnstable",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/timothy-r-whelan-29fREV2Cq9b8SGy3r99JzG/",
+    "email": "Timothy.Whelan@mahouse.gov",
+    "surname": "Whelan",
+    "salutation": "Dear Representative Whelan"
+  },
+  {
+    "id": "ocd-person/dc73a702-5899-4b1a-b996-4c4c21d00d0f",
+    "name": "Sheila C. Harrington",
+    "image": "https://malegislature.gov/Legislators/Profile/170/SCH1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "First Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:1st_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/sheila-c-harrington-6hzAF75NKhRUgbko21KiRb/",
+    "email": "Sheila.Harrington@mahouse.gov",
+    "surname": "Harrington",
+    "salutation": "Dear Representative Harrington"
+  },
+  {
+    "id": "ocd-person/51adc4d9-23d8-442f-b692-c4e4204f552e",
+    "name": "David M. Rogers",
+    "image": "https://malegislature.gov/Legislators/Profile/170/DMR1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Twenty-Fourth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:24th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/david-m-rogers-2U7n32IgbMqiikiRtuVUUA/",
+    "email": "Dave.Rogers@mahouse.gov",
+    "surname": "Rogers",
+    "salutation": "Dear Representative Rogers"
+  },
+  {
+    "id": "ocd-person/b61922e8-c775-4c74-8ecb-557d79162195",
+    "name": "Michael J. Finn",
+    "image": "https://malegislature.gov/Legislators/Profile/170/MJF1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Sixth Hampden",
+      "division_id": "ocd-division/country:us/state:ma/sldl:6th_hampden",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/michael-j-finn-5Xc5dH0kWHyv17GqlA3U61/",
+    "email": "Michael.Finn@mahouse.gov",
+    "surname": "Finn",
+    "salutation": "Dear Representative Finn"
+  },
+  {
+    "id": "ocd-person/033bf9eb-2706-4c5f-9f93-8e8d222bf2c0",
+    "name": "Jay D. Livingstone",
+    "image": "https://malegislature.gov/Legislators/Profile/170/J_L1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eighth Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:8th_suffolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/jay-d-livingstone-66NwYZUcEmjl9rLAKmdai/",
+    "email": "Jay.Livingstone@mahouse.gov",
+    "surname": "Livingstone",
+    "salutation": "Dear Representative Livingstone"
+  },
+  {
+    "id": "ocd-person/e142d28d-e57a-4ff9-afa4-c3cd149f2114",
+    "name": "Ronald Mariano",
+    "image": "https://malegislature.gov/Legislators/Profile/170/R_M1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Third Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:3rd_norfolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/ronald-mariano-6r3oJWEjJhlb8HOIyK5rTY/",
+    "email": "Ronald.Mariano@mahouse.gov",
+    "surname": "Mariano",
+    "salutation": "Dear Representative Mariano"
+  },
+  {
+    "id": "ocd-person/24929c64-96a3-41f9-b97f-dcf06024b8de",
+    "name": "Edward F. Coppinger",
+    "image": "https://malegislature.gov/Legislators/Profile/170/E_C1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Tenth Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:10th_suffolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/edward-f-coppinger-170ixSG6nwC4f1kBpmn7j4/",
+    "email": "Edward.Coppinger@mahouse.gov",
+    "surname": "Coppinger",
+    "salutation": "Dear Representative Coppinger"
+  },
+  {
+    "id": "ocd-person/47c42957-b618-41b7-a557-5d24c33568cf",
+    "name": "Kenneth I. Gordon",
+    "image": "https://malegislature.gov/Legislators/Profile/170/KIG1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Twenty-First Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:21st_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/kenneth-i-gordon-2BQ6HHOMtmoLXWH3KenhUd/",
+    "email": "Ken.Gordon@mahouse.gov",
+    "surname": "Gordon",
+    "salutation": "Dear Representative Gordon"
+  },
+  {
+    "id": "ocd-person/3dd1e2a8-3fdd-4d3a-9504-88a04f3fc973",
+    "name": "Hannah Kane",
+    "image": "https://malegislature.gov/Legislators/Profile/170/HEK1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eleventh Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldl:11th_worcester",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/hannah-kane-1seRt9l4tyYlTSTthxG0gt/",
+    "email": "Hannah.Kane@mahouse.gov",
+    "surname": "Kane",
+    "salutation": "Dear Representative Kane"
+  },
+  {
+    "id": "ocd-person/2e198563-4aeb-499b-8333-b4a46b605491",
+    "name": "Michael S. Day",
+    "image": "https://malegislature.gov/Legislators/Profile/170/MSD1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Thirty-First Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:31st_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/michael-s-day-1OzJENTa2hta0WCP7uhBab/",
+    "email": "Michael.Day@mahouse.gov",
+    "surname": "Day",
+    "salutation": "Dear Representative Day"
+  },
+  {
+    "id": "ocd-person/7be05b7f-d3dd-4a0f-b7d0-f29144d47f92",
+    "name": "Denise C. Garlick",
+    "image": "https://malegislature.gov/Legislators/Profile/170/DCG1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Thirteenth Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:13th_norfolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/denise-c-garlick-3lkaRgHlh4BHFxt05DqYra/",
+    "email": "Denise.Garlick@mahouse.gov",
+    "surname": "Garlick",
+    "salutation": "Dear Representative Garlick"
+  },
+  {
+    "id": "ocd-person/560c5ca3-d9b4-4c47-998c-a9baa16a8309",
+    "name": "Christopher M. Markey",
+    "image": "https://malegislature.gov/Legislators/Profile/170/CMM1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Ninth Bristol",
+      "division_id": "ocd-division/country:us/state:ma/sldl:9th_bristol",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/christopher-m-markey-2cMzLgnIMrrvY6xtDr9OGX/",
+    "email": "Christopher.Markey@mahouse.gov",
+    "surname": "Markey",
+    "salutation": "Dear Representative Markey"
+  },
+  {
+    "id": "ocd-person/ef175304-020e-4f79-b71f-dc961b738254",
+    "name": "James M. Murphy",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JMM1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fourth Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:4th_norfolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/james-m-murphy-7H9pAk64CCU5Sm2y7OR8E8/",
+    "email": "James.Murphy@mahouse.gov",
+    "surname": "Murphy",
+    "salutation": "Dear Representative Murphy"
+  },
+  {
+    "id": "ocd-person/11811997-cc3d-49e1-a9de-685b9021af9a",
+    "name": "Randy Hunt",
+    "image": "https://malegislature.gov/Legislators/Profile/170/R_H1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fifth Barnstable",
+      "division_id": "ocd-division/country:us/state:ma/sldl:5th_barnstable",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/randy-hunt-X1rqAgGZ5sX33j7MYS6yw/",
+    "email": "Randy.Hunt@mahouse.gov",
+    "surname": "Hunt",
+    "salutation": "Dear Representative Hunt"
+  },
+  {
+    "id": "ocd-person/ca2aefac-9eaa-4873-8334-24ac92f047c0",
+    "name": "Thomas M. Petrolati",
+    "image": "https://malegislature.gov/Legislators/Profile/170/TMP1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Seventh Hampden",
+      "division_id": "ocd-division/country:us/state:ma/sldl:7th_hampden",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/thomas-m-petrolati-69U4Scbtfy5JwnRPdnrbBw/",
+    "email": "Thomas.Petrolati@mahouse.gov",
+    "surname": "Petrolati",
+    "salutation": "Dear Representative Petrolati"
+  },
+  {
+    "id": "ocd-person/2becbe4e-5b5e-4b42-be87-b4abf57550c7",
+    "name": "Thomas M. Stanley",
+    "image": "https://malegislature.gov/Legislators/Profile/170/TMS1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Ninth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:9th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/thomas-m-stanley-1KsrRrvMynqx7dsnWuIHQ7/",
+    "email": "Thomas.Stanley@mahouse.gov",
+    "surname": "Stanley",
+    "salutation": "Dear Representative Stanley"
+  },
+  {
+    "id": "ocd-person/2abbc0cb-6339-42d9-9947-69412a24301b",
+    "name": "John J. Mahoney",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JJM1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Thirteenth Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldl:13th_worcester",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/john-j-mahoney-1IdTpVUvsQoioUpBZNmgRP/",
+    "email": "John.Mahoney@mahouse.gov",
+    "surname": "Mahoney",
+    "salutation": "Dear Representative Mahoney"
+  },
+  {
+    "id": "ocd-person/49397268-3fc9-4c83-a385-f55be18597f4",
+    "name": "Barry R. Finegold",
+    "image": "https://malegislature.gov/Legislators/Profile/170/BRF0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Second Essex and Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldu:2nd_essex_and_middlesex",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/barry-r-finegold-2EAgyZlao4Bo7mKJaHH0HE/",
+    "email": "Barry.Finegold@masenate.gov",
+    "surname": "Finegold",
+    "salutation": "Dear Senator Finegold"
+  },
+  {
+    "id": "ocd-person/4d0b5dda-d9d1-4c25-9c94-ce8fbd8ff398",
+    "name": "Mary S. Keefe",
+    "image": "https://malegislature.gov/Legislators/Profile/170/MSK1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fifteenth Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldl:15th_worcester",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/mary-s-keefe-2LNbQlhRbjnbOhTTtVks5g/",
+    "email": "Mary.Keefe@mahouse.gov",
+    "surname": "Keefe",
+    "salutation": "Dear Representative Keefe"
+  },
+  {
+    "id": "ocd-person/6c3b63a2-ef13-43e5-b6de-d5e0901aa65a",
+    "name": "Joseph W. McGonagle, Jr.",
+    "image": "https://malegislature.gov/Legislators/Profile/170/jwm1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Twenty-Eighth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:28th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/joseph-w-mcgonagle-jr-3IEJMJbLwNt9Sylmflt8qA/",
+    "email": "Joseph.McGonagle@mahouse.gov",
+    "surname": "Jr.",
+    "salutation": "Dear Representative Jr."
+  },
+  {
+    "id": "ocd-person/1f444dfe-d3b3-4852-ab10-0682206d773d",
+    "name": "Tricia Farley-Bouvier",
+    "image": "https://malegislature.gov/Legislators/Profile/170/TFB1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Third Berkshire",
+      "division_id": "ocd-division/country:us/state:ma/sldl:3rd_berkshire",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/tricia-farley-bouvier-wzybLZSTy4vhW84kJkHb3/",
+    "email": "Tricia.Farley-Bouvier@mahouse.gov",
+    "surname": "Farley-Bouvier",
+    "salutation": "Dear Representative Farley-Bouvier"
+  },
+  {
+    "id": "ocd-person/d887e897-63da-48da-b7cb-b5cc3a3a6e2a",
+    "name": "Denise Provost",
+    "image": "https://malegislature.gov/Legislators/Profile/170/D_P1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Twenty-Seventh Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:27th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/denise-provost-6aaS5O4fAbRvIqGh8XntjW/",
+    "email": "Denise.Provost@mahouse.gov",
+    "surname": "Provost",
+    "salutation": "Dear Representative Provost"
+  },
+  {
+    "id": "ocd-person/5c798735-2f95-40a6-9ef7-4cd25eb638f6",
+    "name": "David T. Vieira",
+    "image": "https://malegislature.gov/Legislators/Profile/170/DTV1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Third Barnstable",
+      "division_id": "ocd-division/country:us/state:ma/sldl:3rd_barnstable",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/david-t-vieira-2oUpcX4qNaleqiVwQhX0pq/",
+    "email": "David.Vieira@mahouse.gov",
+    "surname": "Vieira",
+    "salutation": "Dear Representative Vieira"
+  },
+  {
+    "id": "ocd-person/35396516-6096-4336-ab74-80d6d8e53bcd",
+    "name": "Christine P. Barber",
+    "image": "https://malegislature.gov/Legislators/Profile/170/CPB2.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Thirty-Fourth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:34th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/christine-p-barber-1cQp14g9sHBU1fM1K1SWQH/",
+    "email": "Christine.Barber@mahouse.gov",
+    "surname": "Barber",
+    "salutation": "Dear Representative Barber"
+  },
+  {
+    "id": "ocd-person/445ac849-5e68-4714-adda-759425ad72cf",
+    "name": "Aaron Vega",
+    "image": "https://malegislature.gov/Legislators/Profile/170/A_V1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fifth Hampden",
+      "division_id": "ocd-division/country:us/state:ma/sldl:5th_hampden",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/aaron-vega-24yxstZ5bdGALVo58nihkF/",
+    "email": "Aaron.Vega@mahouse.gov",
+    "surname": "Vega",
+    "salutation": "Dear Representative Vega"
+  },
+  {
+    "id": "ocd-person/3687ae6d-f9c3-4b18-81b8-dfca4d0d81d8",
+    "name": "Elizabeth A. Malia",
+    "image": "https://malegislature.gov/Legislators/Profile/170/EAM1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eleventh Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:11th_suffolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/elizabeth-a-malia-1etaiTKpGrsyJbvOqI7rwG/",
+    "email": "Liz.Malia@mahouse.gov",
+    "surname": "Malia",
+    "salutation": "Dear Representative Malia"
+  },
+  {
+    "id": "ocd-person/f41834f0-0d73-4e8e-8758-66184772c081",
+    "name": "Michelle M. DuBois",
+    "image": "https://malegislature.gov/Legislators/Profile/170/MMD1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Tenth Plymouth",
+      "division_id": "ocd-division/country:us/state:ma/sldl:10th_plymouth",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/michelle-m-dubois-7QbBna2tzsPaCErTplWx17/",
+    "email": "michelle.dubois@mahouse.gov",
+    "surname": "DuBois",
+    "salutation": "Dear Representative DuBois"
+  },
+  {
+    "id": "ocd-person/5a276629-f50a-4d9a-a54e-2c0e07f84968",
+    "name": "Donald R. Berthiaume, Jr.",
+    "image": "https://malegislature.gov/Legislators/Profile/170/DRB1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fifth Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldl:5th_worcester",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/donald-r-berthiaume-jr-2k7JWJOHxYdME6MOHhCgu0/",
+    "email": "Donald.Berthiaume@mahouse.gov",
+    "surname": "Jr.",
+    "salutation": "Dear Representative Jr."
+  },
+  {
+    "id": "ocd-person/888457ba-c348-4826-b2c6-450dba5e38bd",
+    "name": "Kimberly N. Ferguson",
+    "image": "https://malegislature.gov/Legislators/Profile/170/KNF1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "First Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldl:1st_worcester",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/kimberly-n-ferguson-49bR6mxOlvpoU7lb1KqOGz/",
+    "email": "Kimberly.Ferguson@mahouse.gov",
+    "surname": "Ferguson",
+    "salutation": "Dear Representative Ferguson"
+  },
+  {
+    "id": "ocd-person/6e64e8db-c1f5-4f72-994b-dbe9cfdab8a5",
+    "name": "Bradford Hill",
+    "image": "https://malegislature.gov/Legislators/Profile/170/BRH1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fourth Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:4th_essex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/bradford-hill-3MJGqkEmbryJ6ASRwSAXPZ/",
+    "email": "Brad.Hill@mahouse.gov",
+    "surname": "Hill",
+    "salutation": "Dear Representative Hill"
+  },
+  {
+    "id": "ocd-person/5f227f77-f58b-4ac6-b193-9f406bde4055",
+    "name": "Daniel Cahill",
+    "image": "https://malegislature.gov/Legislators/Profile/170/DFC1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Tenth Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:10th_essex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/daniel-cahill-2tW2GuttYDlNBuWikNNFwL/",
+    "email": "Daniel.Cahill@mahouse.gov",
+    "surname": "Cahill",
+    "salutation": "Dear Representative Cahill"
+  },
+  {
+    "id": "ocd-person/6eb6d59e-8df1-4a69-9335-391b8c30e7ea",
+    "name": "David M. Nangle",
+    "image": "https://malegislature.gov/Legislators/Profile/170/DMN1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Seventeenth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:17th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/david-m-nangle-3Mui7BKdKBGCcNLWns7sy2/",
+    "email": "David.Nangle@mahouse.gov",
+    "surname": "Nangle",
+    "salutation": "Dear Representative Nangle"
+  },
+  {
+    "id": "ocd-person/9e4b8b32-233e-443f-a147-46fbaa778a58",
+    "name": "Kevin G. Honan",
+    "image": "https://malegislature.gov/Legislators/Profile/170/KGH1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Seventeenth Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:17th_suffolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/kevin-g-honan-4ohJIQoDnLh896lkbKUW0e/",
+    "email": "Kevin.Honan@mahouse.gov",
+    "surname": "Honan",
+    "salutation": "Dear Representative Honan"
+  },
+  {
+    "id": "ocd-person/8c42603e-4483-44f1-995f-5956fa09c73c",
+    "name": "Frank A. Moran",
+    "image": "https://malegislature.gov/Legislators/Profile/170/FAM1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Seventeenth Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:17th_essex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/frank-a-moran-4GfG6B8YPBySFFcvNKCkgO/",
+    "email": "Frank.Moran@mahouse.gov",
+    "surname": "Moran",
+    "salutation": "Dear Representative Moran"
+  },
+  {
+    "id": "ocd-person/1e9d742c-c20b-45cf-9e22-e7752189fa7a",
+    "name": "Sean Garballey",
+    "image": "https://malegislature.gov/Legislators/Profile/170/S_G1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Twenty-Third Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:23rd_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/sean-garballey-vlj2HgUUJ9zBEnhHyfU9y/",
+    "email": "Sean.Garballey@mahouse.gov",
+    "surname": "Garballey",
+    "salutation": "Dear Representative Garballey"
+  },
+  {
+    "id": "ocd-person/67f64532-7f9a-4cd3-8c89-dc9b5df06517",
+    "name": "James J. O'Day",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JJO1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fourteenth Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldl:14th_worcester",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/james-j-oday-3AAkqE4V0ftu52nR8JRjiZ/",
+    "email": "James.O&#39;Day@mahouse.gov",
+    "surname": "O'Day",
+    "salutation": "Dear Representative O'Day"
+  },
+  {
+    "id": "ocd-person/3b6297d5-2c8d-42a8-ba9b-bb4e8f50c0e2",
+    "name": "Ann-Margaret Ferrante",
+    "image": "https://malegislature.gov/Legislators/Profile/170/AMF1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fifth Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:5th_essex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/ann-margaret-ferrante-1o3bTYWD6uFkhMPle4GCB8/",
+    "email": "Ann-Margaret.Ferrante@mahouse.gov",
+    "surname": "Ferrante",
+    "salutation": "Dear Representative Ferrante"
+  },
+  {
+    "id": "ocd-person/e8071049-2a8d-4633-b6cb-c1f6ae83bb7a",
+    "name": "Donald H. Wong",
+    "image": "https://malegislature.gov/Legislators/Profile/170/DHW1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Ninth Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:9th_essex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/donald-h-wong-73pRltGuvcuyumSD0PHKvK/",
+    "email": "Donald.Wong@mahouse.gov",
+    "surname": "Wong",
+    "salutation": "Dear Representative Wong"
+  },
+  {
+    "id": "ocd-person/af41924a-7c46-4b6b-b71b-bba683c62c5f",
+    "name": "Carole A. Fiola",
+    "image": "https://malegislature.gov/Legislators/Profile/170/CAF1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Sixth Bristol",
+      "division_id": "ocd-division/country:us/state:ma/sldl:6th_bristol",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/carole-a-fiola-5KhceZeM09ipZOLljiyO6B/",
+    "email": "Carole.Fiola@mahouse.gov",
+    "surname": "Fiola",
+    "salutation": "Dear Representative Fiola"
+  },
+  {
+    "id": "ocd-person/95fef9c7-c5c1-415c-95ef-94e4d87e3a72",
+    "name": "William M. Straus",
+    "image": "https://malegislature.gov/Legislators/Profile/170/WMS1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Tenth Bristol",
+      "division_id": "ocd-division/country:us/state:ma/sldl:10th_bristol",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/william-m-straus-4Z2NcLXarQFsILsUSsT0So/",
+    "email": "William.Straus@mahouse.gov",
+    "surname": "Straus",
+    "salutation": "Dear Representative Straus"
+  },
+  {
+    "id": "ocd-person/cf295962-4f8d-427a-84e9-c7615ff94c8c",
+    "name": "David F. DeCoste",
+    "image": "https://malegislature.gov/Legislators/Profile/170/DFD1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fifth Plymouth",
+      "division_id": "ocd-division/country:us/state:ma/sldl:5th_plymouth",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/david-f-decoste-6IuJ77MEoNyNp97QvMe5hE/",
+    "email": "David.DeCoste@mahouse.gov",
+    "surname": "DeCoste",
+    "salutation": "Dear Representative DeCoste"
+  },
+  {
+    "id": "ocd-person/6b420d2a-f12d-40ca-a13f-04cf9061a66b",
+    "name": "Tackey Chan",
+    "image": "https://malegislature.gov/Legislators/Profile/170/T_C1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Second Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:2nd_norfolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/tackey-chan-3GOMbRFD7taaugaRj0DU0x/",
+    "email": "Tackey.Chan@mahouse.gov",
+    "surname": "Chan",
+    "salutation": "Dear Representative Chan"
+  },
+  {
+    "id": "ocd-person/49c4bb4e-fadd-4136-953f-6bd64a970acb",
+    "name": "Jonathan D. Zlotnik",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JDZ1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Second Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldl:2nd_worcester",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/jonathan-d-zlotnik-2FCLTvlQ3TeUN2EhtOMKS3/",
+    "email": "Jon.Zlotnik@mahouse.gov",
+    "surname": "Zlotnik",
+    "salutation": "Dear Representative Zlotnik"
+  },
+  {
+    "id": "ocd-person/d0e66289-022e-4a99-ac8c-f20fb7557e7f",
+    "name": "Paul McMurtry",
+    "image": "https://malegislature.gov/Legislators/Profile/170/P_M1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eleventh Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:11th_norfolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/paul-mcmurtry-6MBgn9wM2HzTU3yOOzdNtv/",
+    "email": "Paul.McMurtry@mahouse.gov",
+    "surname": "McMurtry",
+    "salutation": "Dear Representative McMurtry"
+  },
+  {
+    "id": "ocd-person/06867e5f-9de5-4cb2-a3ae-a039e890718c",
+    "name": "David Paul Linsky",
+    "image": "https://malegislature.gov/Legislators/Profile/170/DPL1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fifth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:5th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/david-paul-linsky-CJPtkn9E8koYoFNbbs5Xw/",
+    "email": "David.Linsky@mahouse.gov",
+    "surname": "Linsky",
+    "salutation": "Dear Representative Linsky"
+  },
+  {
+    "id": "ocd-person/67833a9e-e086-4494-a364-fecdcd6aa609",
+    "name": "Jerald A. Parisella",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JAP1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Sixth Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:6th_essex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/jerald-a-parisella-39KBFf9GkYb371oa2wO8Hh/",
+    "email": "Jerald.Parisella@mahouse.gov",
+    "surname": "Parisella",
+    "salutation": "Dear Representative Parisella"
+  },
+  {
+    "id": "ocd-person/0df5de43-f3a3-4988-82fb-7f951fa02753",
+    "name": "Ruth B. Balser",
+    "image": "https://malegislature.gov/Legislators/Profile/170/RBB1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Twelfth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:12th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/ruth-b-balser-QLGGRmIcMxSSzuYAuCSlX/",
+    "email": "Ruth.Balser@mahouse.gov",
+    "surname": "Balser",
+    "salutation": "Dear Representative Balser"
+  },
+  {
+    "id": "ocd-person/04997a33-67a9-4535-95d2-c9a4c260519d",
+    "name": "William C. Galvin",
+    "image": "https://malegislature.gov/Legislators/Profile/170/WCG1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Sixth Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:6th_norfolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/william-c-galvin-8g6jeh8luXsBHbFsHrwS5/",
+    "email": "William.Galvin@mahouse.gov",
+    "surname": "Galvin",
+    "salutation": "Dear Representative Galvin"
+  },
+  {
+    "id": "ocd-person/0ba5a0af-7aee-4bb7-af58-982b687f81d8",
+    "name": "Josh S. Cutler",
+    "image": "https://malegislature.gov/Legislators/Profile/170/JSC1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Sixth Plymouth",
+      "division_id": "ocd-division/country:us/state:ma/sldl:6th_plymouth",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/josh-s-cutler-LybfphA9S495guaKeZswC/",
+    "email": "Josh.Cutler@mahouse.gov",
+    "surname": "Cutler",
+    "salutation": "Dear Representative Cutler"
+  },
+  {
+    "id": "ocd-person/66f8e4bd-3729-4d3b-92b7-842eee659348",
+    "name": "Theodore C. Speliotis",
+    "image": "https://malegislature.gov/Legislators/Profile/170/TCS1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Thirteenth Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:13th_essex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/theodore-c-speliotis-38IxdwsLYyeWO4X2vl9yWG/",
+    "email": "Theodore.Speliotis@mahouse.gov",
+    "surname": "Speliotis",
+    "salutation": "Dear Representative Speliotis"
+  },
+  {
+    "id": "ocd-person/5696763c-5fd6-44dd-9dce-7be56632cedd",
+    "name": "Danielle W. Gregoire",
+    "image": "https://malegislature.gov/Legislators/Profile/170/DWG1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fourth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:4th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/danielle-w-gregoire-2dO6HiHbl6HsPfPTbFhchZ/",
+    "email": "Danielle.Gregoire@mahouse.gov",
+    "surname": "Gregoire",
+    "salutation": "Dear Representative Gregoire"
+  },
+  {
+    "id": "ocd-person/77994b2c-f88c-4a5f-bf9d-7abd1875d8dc",
+    "name": "Brendan P. Crighton",
+    "image": "https://malegislature.gov/Legislators/Profile/170/BPC0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Third Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldu:3rd_essex",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/brendan-p-crighton-3dg8p1rpwHGCALMU2JYWKa/",
+    "email": "brendan.crighton@masenate.gov",
+    "surname": "Crighton",
+    "salutation": "Dear Senator Crighton"
+  },
+  {
+    "id": "ocd-person/09ed2b39-bf07-455f-a60c-72cb36a11c27",
+    "name": "Angelo M. Scaccia",
+    "image": "https://malegislature.gov/Legislators/Profile/170/AMS1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fourteenth Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:14th_suffolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/angelo-m-scaccia-IjJg7jwfFf4f2VEgGa06J/",
+    "email": "Angelo.Scaccia@mahouse.gov",
+    "surname": "Scaccia",
+    "salutation": "Dear Representative Scaccia"
+  },
+  {
+    "id": "ocd-person/6847f063-97fd-4091-8f82-041d36d374b1",
+    "name": "Louis L. Kafka",
+    "image": "https://malegislature.gov/Legislators/Profile/170/LLK1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eighth Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:8th_norfolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/louis-l-kafka-3Am4qiW4I3ZpQxgNmYsc7t/",
+    "email": "Louis.Kafka@mahouse.gov",
+    "surname": "Kafka",
+    "salutation": "Dear Representative Kafka"
+  },
+  {
+    "id": "ocd-person/0e38852a-52b0-4aac-8a65-fa3fc964c88e",
+    "name": "Colleen M. Garry",
+    "image": "https://malegislature.gov/Legislators/Profile/170/CMG1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Thirty-Sixth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:36th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/colleen-m-garry-QpimnDNugRQbLSbJfjSGs/",
+    "email": "Colleen.Garry@mahouse.gov",
+    "surname": "Garry",
+    "salutation": "Dear Representative Garry"
+  },
+  {
+    "id": "ocd-person/61a670a7-37a6-42f0-8c8f-4cfc1d93693a",
+    "name": "Kay Khan",
+    "image": "https://malegislature.gov/Legislators/Profile/170/K_K1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eleventh Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:11th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/kay-khan-2yGJmMhNJeQksLioCvQWfC/",
+    "email": "Kay.Khan@mahouse.gov",
+    "surname": "Khan",
+    "salutation": "Dear Representative Khan"
+  },
+  {
+    "id": "ocd-person/6b1bbe32-1b86-48a4-909e-ee1ba6c5c746",
+    "name": "Sarah K. Peake",
+    "image": "https://malegislature.gov/Legislators/Profile/170/SKP1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fourth Barnstable",
+      "division_id": "ocd-division/country:us/state:ma/sldl:4th_barnstable",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/sarah-k-peake-3G6rAQg7FeibzrpYkqG3Tq/",
+    "email": "Sarah.Peake@mahouse.gov",
+    "surname": "Peake",
+    "salutation": "Dear Representative Peake"
+  },
+  {
+    "id": "ocd-person/0db5ab85-b9c0-4b48-a0b4-d5944bab0a2d",
+    "name": "Walter F. Timilty",
+    "image": "https://malegislature.gov/Legislators/Profile/170/WFT0.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "upper",
+      "state": "ma",
+      "district": "Norfolk, Bristol and Plymouth",
+      "division_id": "ocd-division/country:us/state:ma/sldu:norfolk_bristol_and_plymouth",
+      "role": "Senator"
+    },
+    "pretty_url": "/person/walter-f-timilty-PrvGc777fT2JOswjtwNLx/",
+    "email": "Walter.Timilty@masenate.gov",
+    "surname": "Timilty",
+    "salutation": "Dear Senator Timilty"
+  },
+  {
+    "id": "ocd-person/d70e97f1-b8ec-489d-ab5a-2b7f3775ae8a",
+    "name": "Daniel M. Donahue",
+    "image": "https://malegislature.gov/Legislators/Profile/170/DMD1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Sixteenth Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldl:16th_worcester",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/daniel-m-donahue-6Xo1DCsSUQcTt9LR8HVTmU/",
+    "email": "Daniel.Donahue@mahouse.gov",
+    "surname": "Donahue",
+    "salutation": "Dear Representative Donahue"
+  },
+  {
+    "id": "ocd-person/1368c833-35b4-4cf3-9bb4-e9e41d1434f7",
+    "name": "Carolyn C. Dykema",
+    "image": "https://malegislature.gov/Legislators/Profile/170/CCD1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eighth Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:8th_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/carolyn-c-dykema-acjrXXvTqdq7mjTIP16v9/",
+    "email": "Carolyn.Dykema@mahouse.gov",
+    "surname": "Dykema",
+    "salutation": "Dear Representative Dykema"
+  },
+  {
+    "id": "ocd-person/6e81dcb7-4a04-4a88-b5f2-728a3336cf9d",
+    "name": "Alan Silvia",
+    "image": "https://malegislature.gov/Legislators/Profile/170/A_S1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Seventh Bristol",
+      "division_id": "ocd-division/country:us/state:ma/sldl:7th_bristol",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/alan-silvia-3MWVC5ziaEp4paeRvNDImD/",
+    "email": "Alan.Silvia@mahouse.gov",
+    "surname": "Silvia",
+    "salutation": "Dear Representative Silvia"
+  },
+  {
+    "id": "ocd-person/8535e83a-df7d-4c14-9a19-1f32fd2147cb",
+    "name": "Claire D. Cronin",
+    "image": "https://malegislature.gov/Legislators/Profile/170/CDC1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Eleventh Plymouth",
+      "division_id": "ocd-division/country:us/state:ma/sldl:11th_plymouth",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/claire-d-cronin-43Mc8XTkh8d8KcIJ7UeF4N/",
+    "email": "Claire.Cronin@mahouse.gov",
+    "surname": "Cronin",
+    "salutation": "Dear Representative Cronin"
+  },
+  {
+    "id": "ocd-person/f81b07bd-cc43-47be-95ea-dca26f19a647",
+    "name": "Bruce J. Ayers",
+    "image": "https://malegislature.gov/Legislators/Profile/170/BJA1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "First Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:1st_norfolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/bruce-j-ayers-7YARtavStkKPKeZGcWUZGB/",
+    "email": "Bruce.Ayers@mahouse.gov",
+    "surname": "Ayers",
+    "salutation": "Dear Representative Ayers"
+  },
+  {
+    "id": "ocd-person/078692f2-2afe-4aa1-a320-d4747edacbbb",
+    "name": "Russell E. Holmes",
+    "image": "https://malegislature.gov/Legislators/Profile/170/REH1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Sixth Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:6th_suffolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/russell-e-holmes-ECRhQjXw3gQ3Rlkczn9Cd/",
+    "email": "Russell.Holmes@mahouse.gov",
+    "surname": "Holmes",
+    "salutation": "Dear Representative Holmes"
+  },
+  {
+    "id": "ocd-person/398f9a47-bc65-4c2a-b12e-347f375d8fac",
+    "name": "Marc T. Lombardo",
+    "image": "https://malegislature.gov/Legislators/Profile/170/MTL1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Twenty-Second Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:22nd_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/marc-t-lombardo-1kcBjQE6veXaKuSqB88nOu/",
+    "email": "Marc.Lombardo@mahouse.gov",
+    "surname": "Lombardo",
+    "salutation": "Dear Representative Lombardo"
+  },
+  {
+    "id": "ocd-person/2990f236-cb76-4d93-af19-7792fa77290b",
+    "name": "Daniel J. Hunt",
+    "image": "https://malegislature.gov/Legislators/Profile/170/djh1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Thirteenth Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:13th_suffolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/daniel-j-hunt-1GQvPTJom8oALyEQs5lHkB/",
+    "email": "Daniel.Hunt@mahouse.gov",
+    "surname": "Hunt",
+    "salutation": "Dear Representative Hunt"
+  },
+  {
+    "id": "ocd-person/76b56fe8-bd61-4e1d-a664-773844234d35",
+    "name": "Shawn Dooley",
+    "image": "https://malegislature.gov/Legislators/Profile/170/S_D1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Ninth Norfolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:9th_norfolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/shawn-dooley-3c00iYZXDaJkXPTpt5yDLR/",
+    "email": "Shawn.Dooley@mahouse.gov",
+    "surname": "Dooley",
+    "salutation": "Dear Representative Dooley"
+  },
+  {
+    "id": "ocd-person/5f796cb3-08ae-40c4-8c11-a2758f317cc2",
+    "name": "Thomas P. Walsh",
+    "image": "https://malegislature.gov/Legislators/Profile/170/TJW1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Twelfth Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:12th_essex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/thomas-p-walsh-2u9lG8tGaXdON0afZSgqVW/",
+    "email": "Thomas.Walsh@mahouse.gov",
+    "surname": "Walsh",
+    "salutation": "Dear Representative Walsh"
+  },
+  {
+    "id": "ocd-person/7e081a6a-1b40-40e8-bf6d-bb2fc39c812f",
+    "name": "Robert A. DeLeo",
+    "image": "https://malegislature.gov/Legislators/Profile/170/RAD1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Nineteenth Suffolk",
+      "division_id": "ocd-division/country:us/state:ma/sldl:19th_suffolk",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/robert-a-deleo-3pojeaJMWvGlYxjpYkSr9j/",
+    "email": "Robert.DeLeo@mahouse.gov",
+    "surname": "DeLeo",
+    "salutation": "Dear Representative DeLeo"
+  },
+  {
+    "id": "ocd-person/209427dd-91f0-45d6-ae8c-05a51872c10c",
+    "name": "Steven Ultrino",
+    "image": "https://malegislature.gov/Legislators/Profile/170/S_G2.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Thirty-Third Middlesex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:33rd_middlesex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/steven-ultrino-zTSdEOJ6uIiFeCrfPXZWO/",
+    "email": "Steven.Ultrino@mahouse.gov",
+    "surname": "Ultrino",
+    "salutation": "Dear Representative Ultrino"
+  },
+  {
+    "id": "ocd-person/b38a106c-7659-493e-a27f-fed4c6456b3c",
+    "name": "Linda Dean Campbell",
+    "image": "https://malegislature.gov/Legislators/Profile/170/LDC1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Fifteenth Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:15th_essex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/linda-dean-campbell-5SmilSxnkWgQqcoEIkhZKG/",
+    "email": "Linda.Campbell@mahouse.gov",
+    "surname": "Campbell",
+    "salutation": "Dear Representative Campbell"
+  },
+  {
+    "id": "ocd-person/fdc5586f-0db3-4614-af1f-72a42cf5e6f0",
+    "name": "Paul K. Frost",
+    "image": "https://malegislature.gov/Legislators/Profile/170/PKF1.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Seventh Worcester",
+      "division_id": "ocd-division/country:us/state:ma/sldl:7th_worcester",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/paul-k-frost-7irFF2QS1p0MSqyYYgJd0C/",
+    "email": "Paul.Frost@mahouse.gov",
+    "surname": "Frost",
+    "salutation": "Dear Representative Frost"
+  },
+  {
+    "id": "ocd-person/d8895862-a95b-4982-bb2e-31c8ffa4bf57",
+    "name": "Todd M. Smola",
+    "image": "https://malegislature.gov/Legislators/Profile/170/TMS2.jpg",
+    "current_role": {
+      "party": "Republican",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "First Hampden",
+      "division_id": "ocd-division/country:us/state:ma/sldl:1st_hampden",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/todd-m-smola-6ab6nFTtt6T5saqsCIgWjX/",
+    "email": "Todd.Smola@mahouse.gov",
+    "surname": "Smola",
+    "salutation": "Dear Representative Smola"
+  },
+  {
+    "id": "ocd-person/127bb871-7119-4732-8c8f-0208750c3a56",
+    "name": "Marcos A. Devers",
+    "image": "https://malegislature.gov/Legislators/Profile/170/MAD1.jpg",
+    "current_role": {
+      "party": "Democratic",
+      "chamber": "lower",
+      "state": "ma",
+      "district": "Sixteenth Essex",
+      "division_id": "ocd-division/country:us/state:ma/sldl:16th_essex",
+      "role": "Representative"
+    },
+    "pretty_url": "/person/marcos-a-devers-YsOwSD7hbTIQ6fJaMhhOI/",
+    "email": "marcos.devers@mahouse.gov",
+    "surname": "Devers",
+    "salutation": "Dear Representative Devers"
+  }
+]
